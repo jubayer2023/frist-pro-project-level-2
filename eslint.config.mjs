@@ -13,7 +13,7 @@ export default [
       'no-unused-vars': 'warn',
       'no-unused-expressions': 'error',
       'prefer-const': 'error',
-      // "no-console": "warn",
+      "no-console": "warn",
       'no-undef': 'error'
     }
   },
